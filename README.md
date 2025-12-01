@@ -177,9 +177,7 @@ Try these with `adk web life_admin_agent`:
 
 ## 👥 Team
 
-- Member A - Core Logic & Evaluation
-- Member B - Google API Integration  
-- Member C - Orchestration & Submission
+-Solo Project – All development, evaluation, and integration completed independently.
 
 ## 📄 License
 
