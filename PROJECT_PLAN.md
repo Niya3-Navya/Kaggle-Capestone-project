@@ -49,7 +49,7 @@ An intelligent multi-agent system that:
 
 ## 👥 Task Assignments
 
-### 🏗️ MEMBER A: "The Architect" (Core Logic & Context)
+### 🏗️ Phase 1 : "The Architect" (Core Logic & Context)
 
 **Focus:** Profile Data + Eisenhower Logic + Evaluation Script
 
@@ -121,7 +121,7 @@ TEST_CASES = [
 
 ---
 
-### 🔌 MEMBER B: "The Integrator" (Google API Tools)
+### 🔌 Phase 2 : "The Integrator" (Google API Tools)
 
 **Focus:** Google Calendar + Gmail Draft Functions
 
@@ -187,7 +187,7 @@ def create_gmail_draft(to: str, subject: str, body: str):
 
 ---
 
-### 🎮 MEMBER C: "The Driver" (Orchestration & Assembly)
+### 🎮 Phase 3 : "The Driver" (Orchestration & Assembly)
 
 **Focus:** Main Agent, Integration, Demo, Submission
 
