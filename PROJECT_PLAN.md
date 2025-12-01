@@ -1,4 +1,4 @@
-# 🛎️ Life Admin Concierge Agent - Sprint Plan
+# 🛎️ Intelligent Life Manager (ILM) - Sprint Plan
 
 This project implements a Life Admin Concierge Agent — a multi-agent system that automates life-admin tasks such as renewals, email drafting, task prioritization, and personal profile lookups. It uses Gemini, custom tools, Google APIs (or mocks), and Eisenhower Matrix–based workflows.
 
