@@ -1,4 +1,4 @@
-# Life Admin Concierge Agent 🛎️
+# Intelligent Life Manager (ILM) 🛎️
 
 > Kaggle Agents Intensive Capstone Project - Concierge Track
 > **Built with Google Agent Development Kit (ADK)**
