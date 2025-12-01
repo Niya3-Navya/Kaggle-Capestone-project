@@ -1,9 +1,11 @@
 # 🛎️ Life Admin Concierge Agent - Sprint Plan
 
+This project implements a Life Admin Concierge Agent — a multi-agent system that automates life-admin tasks such as renewals, email drafting, task prioritization, and personal profile lookups. It uses Gemini, custom tools, Google APIs (or mocks), and Eisenhower Matrix–based workflows.
+
 > **Kaggle Agents Intensive Capstone Project**  
 > **Track:** Concierge Agents (Personal Life)  
 > **Deadline:** December 1, 2025 11:59 AM PT (~2 days)  
-> **Team Size:** 2-3 active members
+> **Team Size:** 1 (Solo submission)
 
 ---
 
@@ -354,26 +356,6 @@ life-admin-concierge/
 └── notebooks/
     └── demo.ipynb           # Kaggle notebook for submission
 ```
-
----
-
-## ⏰ Timeline (48 Hours)
-
-### Day 1 (Today - Nov 30)
-
-| Time | Member A | Member B | Member C |
-|------|----------|----------|----------|
-| Morning | Profile data system | Google Cloud setup | Project structure setup |
-| Afternoon | Eisenhower logic | Calendar tool | Main agent skeleton |
-| Evening | Evaluation script | Gmail tool | Router + Integration |
-
-### Day 2 (Dec 1 - DEADLINE DAY)
-
-| Time | Member A | Member B | Member C |
-|------|----------|----------|----------|
-| Morning (Early) | Testing & fixes | Tool testing | Full integration |
-| Mid-Morning | Documentation | Mock fallbacks | Demo recording |
-| Before Noon | Review | Review | SUBMIT by 11:59 AM PT |
 
 ---
 
